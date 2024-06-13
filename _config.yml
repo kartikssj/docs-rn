@@ -1,0 +1,10 @@
+title: React Native
+email: kartiku@groww.in
+description: >-
+  Documentation for RN platform libraries
+baseurl: "/rn" 
+url: "https://kartikssj.github.io"
+theme: just-the-docs
+plugins:
+  - jekyll-feed
+
